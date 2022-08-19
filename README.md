@@ -2,7 +2,7 @@
 
 ## Objectives - 
 - To understand the data using descriptive statistics using pandas, Numpy.
-- Derive Insights on descriptive statistics. 
+- Derive Insights based on descriptive statistics. 
 - To visualize data using Matplotlib & Seaborn liabraries.
 
 ## Information about data
