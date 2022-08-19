@@ -7,24 +7,24 @@
 
 ## Information about data
 
-id : Employee unique identification number
+- id : Employee unique identification number
 
-Age : age of primary beneficiary
+- Age : age of primary beneficiary
 
-Sex : insurance contractor gender, female, male
+- Sex : insurance contractor gender, female, male
 
-bmi : Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
+- BMI : Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
 objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
 
-dependent : Number of children covered by health insurance / Number of dependents
+- dependent : Number of children covered by health insurance / Number of dependents
 
-alcohol : Alcohol categories --> 'daily', 'weekend', 'rarely', 'party', 'no'
+- Alcohol : Alcohol categories --> 'daily', 'weekend', 'rarely', 'party', 'no'
 
-Smoker : Smoking categories --> 'yes','no'
+- Smoker : Smoking categories --> 'yes','no'
 
-Zone : The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+- Zone : The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 
-Expenditure : Individual medical costs billed by health insurance
+- Expenditure : Individual medical costs billed by health insurance
 
 ## Outcomes - 
 - Overview of the data by slicing across dimensions.
