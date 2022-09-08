@@ -5,7 +5,7 @@
 - Derive Insights based on descriptive statistics. 
 - To visualize data using Matplotlib & Seaborn liabraries.
 
-## Information about data
+## Data Dictionary
 
 - id : Employee unique identification number
 
